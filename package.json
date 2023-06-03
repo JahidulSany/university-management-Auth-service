@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This is an university management project using TS, Express and MongoDB",
   "main": "src/server.ts",
-
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts .",
@@ -13,11 +12,9 @@
     "lint-prettier": "yarn lint:check && yarn prettier:check",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "lint-staged": {
     "src/**/*.ts": "yarn lint-prettier"
   },
-
   "author": "Jahidul Sany",
   "license": "ISC",
   "devDependencies": {
@@ -33,7 +30,6 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.0.4"
   },
-  
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
