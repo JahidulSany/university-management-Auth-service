@@ -1,0 +1,132 @@
+{"level":"info","message":"🛢️ Database is connected successfully!!","service":"user-service"}
+{"level":"info","message":"Application is running on port 3000","service":"user-service"}
+{"level":"info","message":"🛢️ Database is connected successfully!!","service":"user-service"}
+{"level":"info","message":"Application is running on port 3000","service":"user-service"}
+{"level":"info","message":"🛢️ Database is connected successfully!!","service":"user-service"}
+{"level":"info","message":"Application is running on port 3000","service":"user-service"}
+{"level":"info","message":"🛢️ Database is connected successfully!!","service":"user-service"}
+{"level":"info","message":"Application is running on port 3000","service":"user-service"}
+{
+  message: '🛢️ Database is connected successfully!!',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:27:36.190Z'
+}
+{
+  message: 'Application is running on port 3000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:27:36.197Z'
+}
+{
+  message: '🛢️ Database is connected successfully!!',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:27:45.610Z'
+}
+{
+  message: 'Application is running on port 3000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:27:45.615Z'
+}
+{
+  message: '🛢️ Database is connected successfully!!',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:29:07.210Z'
+}
+{
+  message: 'Application is running on port 3000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:29:07.214Z'
+}
+{
+  message: '🛢️ Database is connected successfully!!',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:29:11.143Z'
+}
+{
+  message: 'Application is running on port 3000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-03T22:29:11.150Z'
+}
+2023-06-03T22:36:00.342Z [right meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:36:00.349Z [right meow!] info: Application is running on port 3000
+2023-06-03T22:36:49.706Z [ meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:36:49.712Z [ meow!] info: Application is running on port 3000
+2023-06-03T22:36:53.757Z [Me meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:36:53.762Z [Me meow!] info: Application is running on port 3000
+2023-06-03T22:36:56.064Z [Meoe meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:36:56.069Z [Meoe meow!] info: Application is running on port 3000
+2023-06-03T22:36:58.293Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:36:58.297Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:37:10.092Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:37:10.096Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:42:58.224Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:42:58.228Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:07.125Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:07.132Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:09.673Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:09.676Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:19.971Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:19.976Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:24.196Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:24.203Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:45.800Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:45.805Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:52.319Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:52.324Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:43:57.679Z [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:43:57.687Z [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:44:27.818Z 23 [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:44:27.826Z 23 [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:44:32.322Z 23  [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:44:32.330Z 23  [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:44:45.630Z 23 44 45 [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:44:45.635Z 23 44 45 [Meow meow!] info: Application is running on port 3000
+2023-06-03T22:44:53.836Z 23 44 53 [Meow meow!] info: 🛢️ Database is connected successfully!!
+2023-06-03T22:44:53.841Z 23 44 53 [Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:45:15 GMT+0100 (British Summer Time) 23 45 15 [Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:45:15 GMT+0100 (British Summer Time) 23 45 15 [Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:45:34 GMT+0100 (British Summer Time) 23:45 34 [Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:45:34 GMT+0100 (British Summer Time) 23:45 34 [Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:45:36 GMT+0100 (British Summer Time) 23:45:36 [Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:45:36 GMT+0100 (British Summer Time) 23:45:36 [Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:45:40 GMT+0100 (British Summer Time) 23:45:40[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:45:40 GMT+0100 (British Summer Time) 23:45:40[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:45:43 GMT+0100 (British Summer Time) 23:45:43:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:45:43 GMT+0100 (British Summer Time) 23:45:43:[Meow meow!] info: Application is running on port 3000
+23:45:49:[Meow meow!] info: 🛢️ Database is connected successfully!!
+23:45:49:[Meow meow!] info: Application is running on port 3000
+23:46:17:[Meow meow!] info: 🛢️ Database is connected successfully!!
+23:46:17:[Meow meow!] info: Application is running on port 3000
+23:46:25:[Meow meow!] info: 🛢️ Database is connected successfully!!
+23:46:25:[Meow meow!] info: Application is running on port 3000
+323:46:38:[Meow meow!] info: 🛢️ Database is connected successfully!!
+323:46:38:[Meow meow!] info: Application is running on port 3000
+3 23:46:45:[Meow meow!] info: 🛢️ Database is connected successfully!!
+3 23:46:45:[Meow meow!] info: Application is running on port 3000
+undefined 23:47:3:[Meow meow!] info: 🛢️ Database is connected successfully!!
+undefined 23:47:3:[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:47:12 GMT+0100 (British Summer Time) 23:47:12:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:47:12 GMT+0100 (British Summer Time) 23:47:12:[Meow meow!] info: Application is running on port 3000
+undefined 23:48:11:[Meow meow!] info: 🛢️ Database is connected successfully!!
+undefined 23:48:11:[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:48:16:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:48:16:[Meow meow!] info: Application is running on port 3000
+6/3/2023 23:48:34:[Meow meow!] info: 🛢️ Database is connected successfully!!
+6/3/2023 23:48:34:[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:48:58:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:48:58:[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:50:45:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:50:45:[Meow meow!] info: Application is running on port 3000
+Sat Jun 03 2023 23:50:51:[Meow meow!] info: 🛢️ Database is connected successfully!!
+Sat Jun 03 2023 23:50:51:[Meow meow!] info: Application is running on port 3000
