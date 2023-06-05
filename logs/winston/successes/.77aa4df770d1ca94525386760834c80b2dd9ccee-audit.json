@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/successes/.77aa4df770d1ca94525386760834c80b2dd9ccee-audit.json",
+    "files": [
+        {
+            "date": 1685964354932,
+            "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/successes/phu-2023-05-06-12-success.log",
+            "hash": "a3bbf700da12c35b50be1db41af24c7b255fed457ce3094e14aaffb9cc109670"
+        }
+    ],
+    "hashType": "sha256"
+}

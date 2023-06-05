@@ -1,0 +1,1 @@
+Mon Jun 05 2023 12:26:54:[PH] error: failed to connect Database, MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
