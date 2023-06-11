@@ -1,6 +1,8 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import cors from 'cors'
-import express, { Application, Request, Response } from 'express'
-import userRouters from './app/modules/users/users.route'
+import express, { Application, NextFunction, Request, Response } from 'express'
+import globalErrorHandler from './app/middlewares/globalErrorHandler'
+import { UserRoutes } from './app/modules/user/user.route'
 const app: Application = express()
 
 // Cors
@@ -10,11 +12,15 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
+app.use('/api/v1/users/', UserRoutes)
+
 // Testing
-app.get('/', (req: Request, res: Response) => {
-  res.send('Working Successfully!!')
+// eslint-disable-next-line no-unused-vars
+app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+  throw new Error('Testing Error Logger!!')
 })
 
-app.use('/api/v1/users/', userRouters)
+// Global Error handler
+app.use(globalErrorHandler)
 
 export default app
