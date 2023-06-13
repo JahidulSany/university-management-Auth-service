@@ -114,6 +114,16 @@
             "date": 1686568778558,
             "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/errors/phu-2023-12-06-12-error.log",
             "hash": "9ab6a0593012b50afda5b4b69fc0338780fff47271f29f8fdb754f4a10652d1b"
+        },
+        {
+            "date": 1686650554528,
+            "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/errors/phu-2023-13-06-11-error.log",
+            "hash": "5e45bf5ed9693e607e692158670ef71d6335a4223dae863f5ef910fc3ad063ef"
+        },
+        {
+            "date": 1686655437349,
+            "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/errors/phu-2023-13-06-12-error.log",
+            "hash": "cec39ffa43d8eb985db8d317dd964bcfd0a90fa4efa4d2289004f505f1cbf5e9"
         }
     ],
     "hashType": "sha256"

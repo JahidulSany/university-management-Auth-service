@@ -114,6 +114,16 @@
             "date": 1686568778554,
             "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/successes/phu-2023-12-06-12-success.log",
             "hash": "6f4b1657f9f1bc5e5670845270f28634745b52111745144e24ccb9656527d70d"
+        },
+        {
+            "date": 1686650554524,
+            "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/successes/phu-2023-13-06-11-success.log",
+            "hash": "e2bd608aec7afa4b8d350ad75c321f538acfb6bf69a0314588165a4fdfe07735"
+        },
+        {
+            "date": 1686655437345,
+            "name": "/Users/jahidulsany/Next Level Development/Practice/university-management-auth-service/logs/winston/successes/phu-2023-13-06-12-success.log",
+            "hash": "87a9bee2912e83f1c40590f773a4ef590d710f3ddb05103e447033cedb3f990e"
         }
     ],
     "hashType": "sha256"
