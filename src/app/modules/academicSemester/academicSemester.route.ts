@@ -7,7 +7,13 @@ const router = express.Router()
 router.post(
   '/create-semester',
   validateRequest(AcademicSemesterValidation.createAcademicSemesterZodSchema),
-  AcademicSemesterController.createAcademicSemester
+  AcademicSemesterController.createSemester
+)
+
+router.patch(
+  '/:id',
+  validateRequest(AcademicSemesterValidation.updateAcademicSemesterZodSchema),
+  AcademicSemesterController.updateSemester
 )
 
 router.get('/', AcademicSemesterController.getAllSemesters)
